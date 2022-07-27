@@ -50,4 +50,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Upload application jar file
-        path: application/build/libs/products-0.0.1-SNAPSHOT.jar
+        path: build/libs/products-0.0.1-SNAPSHOT.jar
